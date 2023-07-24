@@ -10,7 +10,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@gitlab.com:g6911/app-web-supply-chain.git
+    git clone git@github.com:faizrahmathidayat/template-custom-role-permision-laravel.git
 
 Switch to the repo folder
 
